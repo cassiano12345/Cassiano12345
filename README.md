@@ -71,7 +71,7 @@ Ola, sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatic
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
 />
 <img 
     align="left" 
