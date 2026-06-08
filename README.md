@@ -149,15 +149,4 @@ Ola, sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatic
 <br/>
 <br/>
 
-### 📊 Estatísticas
-<p align="center">
-  <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-  />
 
-  <img
-    height="200"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-  />
-</p>
