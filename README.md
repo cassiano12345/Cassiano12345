@@ -156,7 +156,7 @@ Ola, sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatic
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Cassiano12345&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs" 
   />
 <img 
       align="left" 
@@ -164,5 +164,5 @@ Ola, sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatic
       height="200" 
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cassiano12345&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)
+   
 </p>
