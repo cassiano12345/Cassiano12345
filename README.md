@@ -119,7 +119,7 @@ Ola, sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatic
     title="JQuery"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/c#.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/C-sharp.svg" 
 />
 <img 
     align="left" 
