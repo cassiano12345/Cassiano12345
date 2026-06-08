@@ -5,6 +5,7 @@
 Ola, sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pelo Politécnico de Bragança, sou apaixonado por programação desde criança, gosto de trabalhar com PhP, C#, JavaScript, C++, Base de dados Mysql, Oracle, e Api.
 
 <p align="left">
+   <p align="left">
     <a href="https://www.youtube.com/@larissakich?sub_confirmation=1">
         <img 
             alt="youtube subscribers" 
@@ -33,6 +34,7 @@ Ola, sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatic
             src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
     </a>
+</p>
 </p>
 
 ---
