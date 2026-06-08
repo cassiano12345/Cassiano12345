@@ -75,8 +75,8 @@ Ola, sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatic
 />
 <img 
     align="left" 
-    alt="Python" 
-    title="Python"
+    alt="Docker" 
+    title="Docker"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" 
