@@ -150,9 +150,7 @@ Ola, sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatic
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<br/>
-<br/>
-<br/>
+
 <br/>
 
 ---
