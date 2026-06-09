@@ -21,6 +21,11 @@ Ola, sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatic
     </a>
 </p>
 
+<br/>
+<br/>
+<br/>
+<br/>
+
 ---
 
 ### 🤖 Linguagens e Tecnologias
