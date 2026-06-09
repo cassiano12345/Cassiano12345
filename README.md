@@ -148,8 +148,7 @@ Ola, sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatic
 
 <br/>
 <br/>
----
-
+<p align="left">
 ### 🤖 Meus Projetos
 
-
+</p>
