@@ -2,7 +2,7 @@
 
 **`Programador JR`**
 
-Ola,
+Olá,
 
 Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pelo Politécnico de Bragança, sou apaixonado por programação desde criança, gosto de trabalhar com PhP, C#, JavaScript, C++, Base de dados Mysql, Oracle, e Api.
 
