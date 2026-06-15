@@ -153,24 +153,10 @@ Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pel
 ---
 ### 🤖 Meus Projetos
 
-<p align="left">
-    <a href="https://github.com/cassiano12345/Projeto-Financas-IVA">
-        <img src="https://img.shields.io/badge/🏛️_Projeto_Finanças_Iva-181717?style=for-the-badge&logo=github" />
-    </a>
-        <a href="https://github.com/cassiano12345/Projeto-Emails">
-        <img src="https://img.shields.io/badge/📧_Projeto_Emails-181717?style=for-the-badge&logo=github" />
-    </a>
-    <a href="https://github.com/cassiano12345/Projeto-Graficos">
-        <img src="https://img.shields.io/badge/📊_Projeto_Graficos-181717?style=for-the-badge&logo=github" />
-    </a>
-        <a href="https://github.com/cassiano12345/Pagina-Web-Softnova">
-        <img src="https://img.shields.io/badge/📊_Pagina_Web-181717?style=for-the-badge&logo=github" />
-    </a>
-</p>
 
 | Projeto | Descrição | Link |
 |----------|------------|------|
 | Iva finanças | Projeto feito em C#, com API das finanças e ficheiro SOAP | [Ver Projeto](https://github.com/cassiano12345/Projeto-Financas-IVA) |
 | Envio de Emails | Projeto feito em C# com API do Gmail e Outlook | [Ver Projeto](https://github.com/cassiano12345/Projeto-Emails) |
 | Apresentação de graficos | Projeto feito em C# e base de dados em Oracle | [Ver Projeto](https://github.com/cassiano12345/Projeto-Graficos) |
-| Pagina Web | Pagina Web feita em PhP, Javascript, Css, e BD em Oracle | [Ver Projeto](https://github.com/cassiano12345/Projeto-Graficos) |
+| Pagina Web | Pagina Web feita em PhP, Javascript, Css, e BD em Oracle | [Ver Projeto](https://github.com/cassiano12345/Pagina-Web-Softnova) |
