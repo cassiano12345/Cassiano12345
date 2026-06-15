@@ -173,3 +173,24 @@ Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pel
 | Iva finanças | Projeto feito em C#, com API das finanças e ficheiro SOAP | [Ver Projeto](https://github.com/cassiano12345/Projeto-Financas-IVA) |
 | Envio de Emails | Projeto feito em C# com API do Gmail e Outlook | [Ver Projeto](https://github.com/cassiano12345/Projeto-Emails) |
 | Apresentação de graficos | Projeto feito em C# e base de dados em Oracle | [Ver Projeto](https://github.com/cassiano12345/Projeto-Graficos) |
+
+
+<table>
+<tr>
+<td width="60%">
+
+| Projeto | Descrição | Link |
+|----------|------------|------|
+| Gestão de Stock | Sistema de gestão de armazém em PHP e MySQL | [Ver Projeto](#) |
+| Sistema de Vendas | Aplicação para gestão de vendas | [Ver Projeto](#) |
+| API SOAP | Integração com serviços SOAP | [Ver Projeto](#) |
+
+</td>
+
+<td width="40%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiano12345&layout=compact&theme=dark" />
+
+</td>
+</tr>
+</table>
