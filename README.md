@@ -157,4 +157,12 @@ Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pel
     <a href="https://github.com/cassiano12345/Projeto-Financas-IVA">
         <img src="https://img.shields.io/badge/📦_Gestão_de_Stock-181717?style=for-the-badge&logo=github" />
     </a>
+
+        <a href="https://github.com/cassiano12345/sistema-vendas">
+        <img src="https://img.shields.io/badge/💰_Sistema_de_Vendas-181717?style=for-the-badge&logo=github" />
+    </a>
+
+    <a href="https://github.com/cassiano12345/api-soap">
+        <img src="https://img.shields.io/badge/🔗_API_SOAP-181717?style=for-the-badge&logo=github" />
+    </a>
 </p>
