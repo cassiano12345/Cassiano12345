@@ -155,16 +155,16 @@ Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pel
 
 <p align="left">
     <a href="https://github.com/cassiano12345/Projeto-Financas-IVA">
-        <img src="https://img.shields.io/badge/🏛️_Gestão_de_Stock-181717?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/🏛️_Projeto_Finanças_Iva-181717?style=for-the-badge&logo=github" />
     </a>
         <a href="https://github.com/cassiano12345/Projeto-Emails">
-        <img src="https://img.shields.io/badge/📧_Sistema_de_Vendas-181717?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/📧_Projeto_Emails-181717?style=for-the-badge&logo=github" />
     </a>
     <a href="https://github.com/cassiano12345/Projeto-Graficos">
-        <img src="https://img.shields.io/badge/📊_API_SOAP-181717?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/📊_Projeto_Graficos-181717?style=for-the-badge&logo=github" />
     </a>
         <a href="https://github.com/cassiano12345/Pagina-Web-Softnova">
-        <img src="https://img.shields.io/badge/📊_API_SOAP-181717?style=for-the-badge&logo=github" />
+        <img src="https://img.shields.io/badge/📊_Pagina_Web-181717?style=for-the-badge&logo=github" />
     </a>
 </p>
 
@@ -174,23 +174,3 @@ Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pel
 | Envio de Emails | Projeto feito em C# com API do Gmail e Outlook | [Ver Projeto](https://github.com/cassiano12345/Projeto-Emails) |
 | Apresentação de graficos | Projeto feito em C# e base de dados em Oracle | [Ver Projeto](https://github.com/cassiano12345/Projeto-Graficos) |
 
-
-<table>
-<tr>
-<td width="60%">
-
-| Projeto | Descrição | Link |
-|----------|------------|------|
-| Iva finanças | Projeto feito em C#, com API das finanças e ficheiro SOAP | [Ver Projeto](https://github.com/cassiano12345/Projeto-Financas-IVA) |
-| Envio de Emails | Projeto feito em C# com API do Gmail e Outlook | [Ver Projeto](https://github.com/cassiano12345/Projeto-Emails) |
-| Apresentação de graficos | Projeto feito em C# e base de dados em Oracle | [Ver Projeto](https://github.com/cassiano12345/Projeto-Graficos) |
-
-</td>
-
-<td width="40%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cassiano12345&layout=compact&theme=dark" />
-
-</td>
-</tr>
-</table>
