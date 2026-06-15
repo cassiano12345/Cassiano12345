@@ -154,7 +154,7 @@ Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pel
 ### 🤖 Meus Projetos
 
 <p align="left">
-    <a href="[https://github.com/cassiano12345/gestao-stock](https://github.com/cassiano12345/Projeto-Financas-IVA)">
+    <a href="https://github.com/cassiano12345/Projeto-Financas-IVA">
         <img src="https://img.shields.io/badge/📦_Gestão_de_Stock-181717?style=for-the-badge&logo=github" />
     </a>
 </p>
