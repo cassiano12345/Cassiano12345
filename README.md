@@ -11,7 +11,7 @@ Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pel
     <a href="https://github.com/cassiano12345/Projeto-Financas-IVA">
         <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-0A66C2?style=for-the-badge" />
     </a>
-    <a href="https://github.com/cassiano12345/Projeto-Emails">
+    <a href="https://download937.mediafire.com/ty8kz73c1fugYKFMi8CfuPEkjGIJ-T_0VJMb2_MHUmAHXKgwiQq8Akf7KoeT0JoBGw5NV_IWAajL38Qr28KMzXmyGczB8DtaE6OWAIoBUUS4DAi8pxtki6V0abPjUqickSlOfyHC6JC5mU4jx_nWLxoMZ0wbj3jevBQ2SJcihHmbkJ_F/7d6igim76f5nfoz/Certificado+Cassiano+Videira.pdf">
         <img src="https://img.shields.io/badge/🎓_Certificado_Academico-2E8B57?style=for-the-badge" />
     </a>
 </p>
