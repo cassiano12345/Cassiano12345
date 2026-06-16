@@ -11,7 +11,7 @@ Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pel
     <a href="https://www.mediafire.com/file/rma8dzextu0zzkp/Cassiano_Videira.pdf/file">
         <img src="https://img.shields.io/badge/📄_Curriculum_Vitae-0A66C2?style=for-the-badge" />
     </a>
-    <a href="https://www.mediafire.com/file/7d6igim76f5nfoz/Certificado_Cassiano_Videira.pdf/file">
+    <a href="">
         <img src="https://img.shields.io/badge/🎓_Certificado_Academico-2E8B57?style=for-the-badge" />
     </a>
 </p>
