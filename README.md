@@ -7,21 +7,14 @@ Olá,
 Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pelo Politécnico de Bragança, sou apaixonado por programação desde criança, gosto de trabalhar com PhP, C#, JavaScript, C++, Base de dados Mysql, Oracle, e Api, SOAP.
 
 <p align="left">
-    <a href="https://github.com/cassiano12345?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/cassiano12345?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
+    <a href="https://github.com/cassiano12345/Projeto-Financas-IVA">
+        <img src="https://img.shields.io/badge/📄_O_meu_curriculum-181717?style=for-the-badge&logo=github" />
     </a>
-    <a href="https://github.com/cassiano12345?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/cassiano12345?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
+        <a href="https://github.com/cassiano12345/Projeto-Emails">
+        <img src="https://img.shields.io/badge/🎓_O_meu_certificado-181717?style=for-the-badge&logo=github" />
     </a>
 </p>
+
 
 ---
 
