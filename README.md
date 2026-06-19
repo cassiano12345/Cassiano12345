@@ -14,6 +14,9 @@ Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pel
     <a href="">
         <img src="https://img.shields.io/badge/🎓_Certificado_Academico-2E8B57?style=for-the-badge" />
     </a>
+    <a href="mailto:Cassianovideira@hotmail.com">
+        <img src="https://img.shields.io/badge/📧_OUTLOOK-D14836?style=for-the-badge" />
+    </a>
 </p>
 
 
