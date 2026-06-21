@@ -157,3 +157,4 @@ Na tabela abaixo é possivel aceder a alguns projetos feitos por mim, é possive
 | Envio de Emails | Projeto feito em C# com API do Gmail e Outlook | [Ver Projeto](https://github.com/cassiano12345/Projeto-Emails) |
 | Apresentação de graficos | Projeto feito em C# e base de dados em Oracle | [Ver Projeto](https://github.com/cassiano12345/Projeto-Graficos) |
 | Pagina Web | Pagina web feita em PhP, Javascript, Css, e BD em Oracle | [Ver Projeto](https://github.com/cassiano12345/Pagina-Web-Softnova) |
+| Previsão de dados | Projeto feito em Python, usando IA Machine Learning | [Ver Projeto](https://github.com/cassiano12345/Machine-learning-Python) |
