@@ -149,8 +149,8 @@ Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pel
 
 ---
 ### 🤖 Meus Projetos
-
-
+Na tabela abaixo é possivel aceder a alguns projetos feitos por mim, é possivel aceder a outros projetos meus em repositorio.
+<br/>
 | Projeto | Descrição | Link |
 |----------|------------|------|
 | Iva finanças | Projeto feito em C#, com API das finanças e ficheiro SOAP | [Ver Projeto](https://github.com/cassiano12345/Projeto_Financas_IVA) |
