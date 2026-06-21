@@ -154,7 +154,6 @@ Sou o Cassiano Videira, sou portugues, sou formado em Engenharia Informatica pel
 | Projeto | Descrição | Link |
 |----------|------------|------|
 | Iva finanças | Projeto feito em C#, com API das finanças e ficheiro SOAP | [Ver Projeto](https://github.com/cassiano12345/Projeto_Financas_IVA) |
-| Faturas finanças | Projeto feito em C#, com API das finanças e ficheiro SOAP | [Ver Projeto](https://github.com/cassiano12345/Projeto_Financas_Faturas) |
 | Envio de Emails | Projeto feito em C# com API do Gmail e Outlook | [Ver Projeto](https://github.com/cassiano12345/Projeto-Emails) |
 | Apresentação de graficos | Projeto feito em C# e base de dados em Oracle | [Ver Projeto](https://github.com/cassiano12345/Projeto-Graficos) |
 | Pagina Web | Pagina web feita em PhP, Javascript, Css, e BD em Oracle | [Ver Projeto](https://github.com/cassiano12345/Pagina-Web-Softnova) |
